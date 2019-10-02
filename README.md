@@ -2,7 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- [Ian M. Warui] 
+- [Ian M. Warui](https://github.com/Ian722) 
 
 ## Project setup instructions
 To start using this project use the following commands:
